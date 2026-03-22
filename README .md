@@ -7,18 +7,6 @@
 
 ---
 
-##  Table of Contents
-
-- [Features](#-features)
-- [Hardware Requirements](#-hardware-requirements)
-- [Project Structure](#-project-structure)
-- [Deep Code Analysis](#-deep-code-analysis)
-- [ML Model Details](#-ml-model-details)
-- [Getting Started](#-getting-started)
-- [Future Work](#-Future-work)
-
----
-
 No cloud. No external API. Pure edge AI.
 
 ---
