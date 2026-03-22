@@ -111,7 +111,6 @@ http://<ESP32_IP_ADDRESS>/
 
 ## Future Work
 
-**Potential Improvements:**
 - [ ] Implement WiFiManager for captive-portal WiFi setup
 - [ ] Replace `AllOpsResolver` with selective op registration
 - [ ] Add SPIFFS/LittleFS to persist readings across reboots
