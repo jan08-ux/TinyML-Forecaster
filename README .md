@@ -1,13 +1,9 @@
-#  ThermalMind 
+#                                                              ThermalMind 
 
 
 <p align="center">
   <strong>A fully edge-native IoT system that streams live predictions vs actual sensor readings to a  browser dashboard — all without any cloud inference.</strong>
 </p>
-
----
-
-No cloud. No external API. Pure edge AI.
 
 ---
 
